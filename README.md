@@ -1,22 +1,9 @@
-Hello Github Readme!
-[Example link](http://www.google.com)
+[Github](https://github.com/DavidSpickett)
 
-More text here.
+[Blog](http://blog.davidspickett.co.uk/)
 
+[Comics](https://dsdraws.tumblr.com/tagged/comic)
 
+[Art Blog](https://dsdraws.tumblr.com/)
 
-And here.
-
-
-And stuff.
-
-
-
-
-
-
-
-
-
-
-To the end.
+[Contact](mailto:david@davidspickett.co.uk)
